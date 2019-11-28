@@ -17,7 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/link")
-@Api(description = "连接管理")
+@Api(description = "链接管理")
 public class LinkController {
 
     @Autowired

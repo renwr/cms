@@ -69,6 +69,4 @@ public class CategoryController {
         return MessageUtil.success(categories);
     }
 
-
-
 }
